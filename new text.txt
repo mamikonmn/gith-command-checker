@@ -1,1 +1,3 @@
 added some text after  git snapshot 
+added new text for checking git --short status command
+added new text for understanding -a command
